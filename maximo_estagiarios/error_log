@@ -1,0 +1,32 @@
+[17-Jun-2026 17:02:33 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class "AvisosDAO" not found in /home2/fisco807/ferramentas.fisconet.com.br/maximo_estagiarios/index.php:31
+Stack trace:
+#0 {main}
+  thrown in /home2/fisco807/ferramentas.fisconet.com.br/maximo_estagiarios/index.php on line 31
+[17-Jun-2026 17:02:42 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class "AvisosDAO" not found in /home2/fisco807/ferramentas.fisconet.com.br/maximo_estagiarios/index.php:31
+Stack trace:
+#0 {main}
+  thrown in /home2/fisco807/ferramentas.fisconet.com.br/maximo_estagiarios/index.php on line 31
+[17-Jun-2026 17:02:54 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class "AvisosDAO" not found in /home2/fisco807/ferramentas.fisconet.com.br/maximo_estagiarios/index.php:31
+Stack trace:
+#0 {main}
+  thrown in /home2/fisco807/ferramentas.fisconet.com.br/maximo_estagiarios/index.php on line 31
+[17-Jun-2026 17:04:00 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class "AvisosDAO" not found in /home2/fisco807/ferramentas.fisconet.com.br/maximo_estagiarios/index.php:31
+Stack trace:
+#0 {main}
+  thrown in /home2/fisco807/ferramentas.fisconet.com.br/maximo_estagiarios/index.php on line 31
+[17-Jun-2026 17:04:27 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class "AvisosDAO" not found in /home2/fisco807/ferramentas.fisconet.com.br/maximo_estagiarios/index.php:31
+Stack trace:
+#0 {main}
+  thrown in /home2/fisco807/ferramentas.fisconet.com.br/maximo_estagiarios/index.php on line 31
+[18-Jun-2026 07:53:46 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class "AvisosDAO" not found in /home2/fisco807/ferramentas.fisconet.com.br/maximo_estagiarios/index.php:31
+Stack trace:
+#0 {main}
+  thrown in /home2/fisco807/ferramentas.fisconet.com.br/maximo_estagiarios/index.php on line 31
+[18-Jun-2026 08:18:47 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class "AvisosDAO" not found in /home2/fisco807/ferramentas.fisconet.com.br/maximo_estagiarios/index.php:31
+Stack trace:
+#0 {main}
+  thrown in /home2/fisco807/ferramentas.fisconet.com.br/maximo_estagiarios/index.php on line 31
+[18-Jun-2026 08:28:14 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class "AvisosDAO" not found in /home2/fisco807/ferramentas.fisconet.com.br/maximo_estagiarios/index.php:31
+Stack trace:
+#0 {main}
+  thrown in /home2/fisco807/ferramentas.fisconet.com.br/maximo_estagiarios/index.php on line 31
